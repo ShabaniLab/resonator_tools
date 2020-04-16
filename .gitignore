@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 
+**.un~
+
 # C extensions
 *.so
 
